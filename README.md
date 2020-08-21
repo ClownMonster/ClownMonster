@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.jpg" width="350">
+  <img src="./py3.jpg" width="350">
 </div>
 
 ![ClownMonster's github stats](https://github-readme-stats.vercel.app/api?username=clownmonster&show_icons=true&theme=dracula)
