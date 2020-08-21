@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-</p>
+<div align="center">
+  <img src="profile.jpg" width="350">
+</div>
 
 ![ClownMonster's github stats](https://github-readme-stats.vercel.app/api?username=clownmonster&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clownmonster&layout=compact&theme=dracula)
