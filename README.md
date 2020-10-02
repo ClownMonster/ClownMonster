@@ -43,6 +43,13 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="slack" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="22" height="22"/>
+  <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="redhat" width="22" height="22"/>
+  <img src="" alt="" width="22" height="22"/>
+  
+       
  </p>
  
