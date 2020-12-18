@@ -6,7 +6,7 @@
   
   <h6>Currently Working on Competitive Programming, Native Application developement with Flutter and Computer Vision</h6>
   
-  ### Ask me About Data Science, Machine Learning , Deep Learnig , MongoDB, React Js, Flutter, Django, Flask, Webscrapping, Web automation and Python3 is :blue_heart: 
+  ### Ask me About Data Science, Machine Learning , Deep Learnig , MongoDB, React Js, Flutter, Django, Flask, AWS EC2 ,Webscrapping, Web automation and Python3 is :blue_heart: 
   <h3 align = "center">Full stack Developer</h3>
   
 </div>
