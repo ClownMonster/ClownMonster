@@ -35,14 +35,14 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> 
+ <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux" width="22" height="22"/> 
+  <img  src="https://img.icons8.com/fluent/48/000000/mysql-logo.png" alt="mysql" width="22" height="22"/> 
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg" alt="slack" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="reactjs" width="40" height="40"/>
