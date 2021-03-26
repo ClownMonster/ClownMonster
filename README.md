@@ -33,7 +33,7 @@ You can find me on [![Twitter][1.2]][1] or on [![LinkedIn][2.2]][2].
 ### Languages and Tools:
 
 <p align="left">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="22" height="22"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> 
  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> 
